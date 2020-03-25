@@ -1,3 +1,1 @@
-module github.com/robteix/testmod/v2
-
-go 1.13
+"module github.com/robscand/testmod/v2" 
